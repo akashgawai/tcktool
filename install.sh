@@ -10,8 +10,8 @@ echo "007"
 echo "."
 
 echo  "#####################################"
-echo   " we are anynomous"               
- echo   " we are thecyberkiddie ok "                                                                    
+echo   " Learn Free Hacking"               
+ echo   " Subscribe to YouTube Channel The Cyber Kiddie"                                                                    
 echo   "####################################"
 
 echo "007"
