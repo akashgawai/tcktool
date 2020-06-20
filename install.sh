@@ -1,7 +1,7 @@
 #!/bin/bash
 echo $red 
  echo ""----------------------------------------------------------------------------- ""
-echo " This Script is written by nitro now start"
+echo " This Script is written by Prahlad Shukla now start"
 echo "---------------------------------------------------------------------------------"
 
 echo "007"
@@ -11,7 +11,7 @@ echo "."
 
 echo  "#####################################"
 echo   " we are anynomous"               
- echo   " we are noobhackers ok "                                                                    
+ echo   " we are thecyberkiddie ok "                                                                    
 echo   "####################################"
 
 echo "007"
@@ -40,7 +40,7 @@ apt install nmap -y
 pkg install openssh -y
 echo  "#####################################"
 echo   "anynomous "               
- echo   " join us on facebook Noob Hackers"                                                                   echo   "####################################"
+ echo   " Subscribe to our YouTube Channel The Cyber Kiddie"                                                                   echo   "####################################"
 
 apt install bash -y
 apt install clang -y
@@ -78,7 +78,7 @@ echo   " processing wait......
 "                                                                    
 echo   "####################################"
 
-echo " If You Connected To Internet Then u downloaded success fully subscribe us Noob Hackers ...we are learners dont underestimate us "
+echo " If You Connected To Internet Then u downloaded success fully subscribe us The Cyber Kiddie ...we are learners dont underestimate us "
 
 echo " ??? now rock and hack ??? "
 
